@@ -33,8 +33,10 @@ a{
 .list-img{
     max-width: 100px;
     max-height: 100px;
+    min-width: 100px;
+    min-height: 100px;
     border: 2px solid white;
-    margin: 15px;
+    margin: 4px;
 }
 
 .menu-list{
@@ -44,12 +46,11 @@ a{
 h1{
     text-align: center;
     background-color: rgba(255, 255, 255, 0.747);
-    padding: 50px;
 }
 
 h1,h2,h3,h4,h5,h6{
     color:rgb(214, 163, 86);
-    padding: 50px;
+    padding: 35px;
 }
 
 p{
