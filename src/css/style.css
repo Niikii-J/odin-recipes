@@ -1,0 +1,9 @@
+/* Stylesheet */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding: 40px;
+}
