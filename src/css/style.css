@@ -19,7 +19,7 @@ a{
 .recipe-intro {
     font-size: 22px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:rgb(121, 119, 119);
+    color:rgb(173, 136, 100);
     margin: 20px;
 }
 
@@ -31,10 +31,20 @@ a{
 
 h1{
     text-align: center;
+    background-color: white;
+    padding: 50px;
 }
 
 h1,h2,h3,h4,h5,h6{
     color:rgb(214, 163, 86);
-    margin: 50px;
+    padding: 50px;
 }
 
+p{
+    width: 75%;
+}
+
+li{
+    padding-bottom:20px;
+    width: 75%;
+}
